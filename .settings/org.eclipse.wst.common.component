@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="modulo_4_explore_e_descubraMVC">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="modulo_4_explore_e_descubraMVC"/>
+        <property name="java-output-path" value="/modulo_4_explore_e_descubraMVC/build/classes"/>
+    </wb-module>
+</project-modules>
